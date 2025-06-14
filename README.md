@@ -1,7 +1,3 @@
-Sure! Here’s the README in English with the same content and style:
-
----
-
 # OpenWRT Neighbor Manager
 
 A simple tool to manage static IPv6 neighbors on OpenWrt via a LuCI GUI.
@@ -53,7 +49,5 @@ This script will:
 
 > LuCI module interface to manage static IPv6 neighbors.
 
----
 
-If you want, I can prepare a complete README.md file for you ready to use. Just let me know!
 
