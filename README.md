@@ -9,7 +9,7 @@ A simple tool to manage static IPv6 neighbors on OpenWrt via a LuCI GUI.
 Run the following command on your OpenWrt router:
 
 ```bash
-wget https://raw.githubusercontent.com/kelvinzer0/OpenWRT-Neighbor-Manager/refs/heads/main/install.sh -O - | sh
+wget https://raw.githubusercontent.com/kelvinzer0/OpenWRT-Neighbor-Manager/refs/heads/main/src/install.sh -O - | sh
 ```
 
 This script will:
