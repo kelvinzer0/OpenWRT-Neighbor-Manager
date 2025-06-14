@@ -33,7 +33,7 @@ add_neighbor() {
     ifname=$(config_get "$1" ifname)
 
     # Tambah neighbor IPv6 statis
-    ip -6 neigh add "$ip6addr" lladdr "$macaddr" dev "$ifname" nud reachable 2>/dev/null || true
+    ip -6 neigh add "$ip6addr" lladdr "$macaddr" dev "$ifname" 2>/dev/null || true
 }
 EOF
 
