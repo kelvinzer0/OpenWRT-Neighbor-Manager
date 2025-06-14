@@ -45,7 +45,7 @@ This script will:
 
 ## Preview Screenshot
 
-![Neighbor Manager LuCI](https://raw.githubusercontent.com/kelvinzer0/OpenWRT-Neighbor-Manager/main/screenshot.png)
+![Neighbor Manager LuCI](https://raw.githubusercontent.com/kelvinzer0/OpenWRT-Neighbor-Manager/main/assets/images/screenshot.png)
 
 > LuCI module interface to manage static IPv6 neighbors.
 
